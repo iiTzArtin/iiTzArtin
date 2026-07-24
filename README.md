@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Artin 👋
 
-<!--
-**iiTzArtin/iiTzArtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer passionate about building modern applications.
 
-Here are some ideas to get you started:
+I build websites, web applications, automation tools, and bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Python
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+
+### Bots & Automation
+- Discord Bots
+- Telegram Bots
+
+## 🛠 What I Build
+
+- Modern responsive websites
+- Web applications
+- Backend systems and APIs
+- Discord & Telegram bots
+- Automation tools
+- Personal projects
+
+## 📚 Currently Learning
+
+- Advanced Backend Development
+- Cybersecurity
+- Software Engineering
+
+## 🎯 Goal
+
+Become a professional Software Engineer and build useful, scalable software.
+
+---
+
+⭐ Always learning, building, and improving through new projects.
