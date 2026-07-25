@@ -7,7 +7,7 @@ I build websites, web applications, automation tools, and bots.
 ## 🚀 Skills
 
 ### Frontend
-- HTML <img src="https://skillicons.dev/icons?i=html" />
+- HTML <img style="width: 10px; height: 10px;" src="https://skillicons.dev/icons?i=html" />
 - CSS
 - JavaScript
 - Tailwind CSS
