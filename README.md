@@ -15,11 +15,12 @@ I build websites, web applications, automation tools, and bots.
 ### Backend
 - <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Node.js
 - <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Python
-- REST APIs
+- <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> REST APIs
 
 ### Tools
 - <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Git
 - <img src="https://skillicons.dev/icons?i=github" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Github
+- <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Tailwind
 
 ### Bots & Automation
 - Discord Bots
