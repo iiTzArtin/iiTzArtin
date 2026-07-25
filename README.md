@@ -7,7 +7,7 @@ I build websites, web applications, automation tools, and bots.
 ## 🚀 Skills
 
 ### Frontend
-- HTML
+- HTML <img src="https://skillicons.dev/icons?i=html" />
 - CSS
 - JavaScript
 - Tailwind CSS
@@ -39,12 +39,6 @@ I build websites, web applications, automation tools, and bots.
 - Advanced Backend Development
 - Cybersecurity
 - Software Engineering
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiItzArtin&show_icons=true&theme=tokyonight" />
-</p>
 
 ## 🎯 Goal
 
