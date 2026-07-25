@@ -1,4 +1,3 @@
-![Uploading personalcard.svg…]()
 # Hi, I'm Artin 👋
 
 💻 Software Developer passionate about building modern applications.
