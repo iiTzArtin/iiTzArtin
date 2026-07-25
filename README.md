@@ -5,7 +5,7 @@
 
 I build websites, web applications, automation tools, and bots.
 
-## Skills
+## <img src="./assets/personalcard" alt="MySkill" width="32" height="32"> Skills
 
 ### Frontend
 - <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> HTML
