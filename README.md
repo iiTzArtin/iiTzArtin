@@ -1,10 +1,10 @@
 # Hi, I'm Artin 👋
 
-💻 Software Developer passionate about building modern applications.
+<img src="./assets/code.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Software Developer passionate about building modern applications.
 
 I build websites, web applications, automation tools, and bots.
 
-## <img src="./assets/personalcard.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Skills
+## <img src="./assets/MySkill.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Skills
 
 ### Frontend
 - <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> HTML
@@ -26,7 +26,7 @@ I build websites, web applications, automation tools, and bots.
 - <img src="https://skillicons.dev/icons?i=discordjs" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Discord.js
 - <img src="https://skillicons.dev/icons?i=devto" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Telegram.js
 
-## 🛠 What I Build
+## <img src="./assets/monitor.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> What I Build
 
 - Modern responsive websites
 - Web applications
@@ -35,16 +35,16 @@ I build websites, web applications, automation tools, and bots.
 - Automation tools
 - Personal projects
 
-## 📚 Currently Learning
+## <img src="./assets/book.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Currently Learning
 
 - Advanced Backend Development
 - Cybersecurity
 - Software Engineering
 
-## 🎯 Goal
+## <img src="./assets/goal.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Goal
 
 Become a professional Software Engineer and build useful, scalable software.
 
 ---
 
-⭐ Always learning, building, and improving through new projects.
+<img src="./assets/star.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Always learning, building, and improving through new projects.
