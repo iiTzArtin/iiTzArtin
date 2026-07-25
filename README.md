@@ -8,7 +8,7 @@ I build websites, web applications, automation tools, and bots.
 ## <img src="./assets/personalcard.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Skills
 
 ### Frontend
-- <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> HTML
+- <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> HTML
 - <img src="https://skillicons.dev/icons?i=css" width="20" height="20" alt="CSS" style="vertical-align: middle; margin-right: 6px;" /> CSS
 - <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript" style="vertical-align: middle; margin-right: 6px;" /> JavaScript
 - <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="Tailwind" style="vertical-align: middle; margin-right: 6px;" /> Tailwind CSS
