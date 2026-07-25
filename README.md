@@ -23,8 +23,8 @@ I build websites, web applications, automation tools, and bots.
 - <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Tailwind
 
 ### Bots & Automation
-- <img src="https://skillicons.dev/icons?i=discord" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Discord Bots
-- <img src="https://skillicons.dev/icons?i=telegram" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Telegram Bots
+- <img src="https://skillicons.dev/icons?i=discordjs" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Discord.js
+- <img src="https://skillicons.dev/icons?i=devto" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Telegram.js
 
 ## 🛠 What I Build
 
