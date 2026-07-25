@@ -13,13 +13,13 @@ I build websites, web applications, automation tools, and bots.
 - <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="Tailwind" style="vertical-align: middle; margin-right: 6px;" /> Tailwind CSS
 
 ### Backend
-- Node.js
-- Python
+- <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Node.js
+- <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Python
 - REST APIs
 
 ### Tools
-- Git
-- GitHub
+- <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Git
+- <img src="https://skillicons.dev/icons?i=github" width="20" height="20" alt="HTML" style="vertical-align: middle; margin-right: 6px;" /> Github
 
 ### Bots & Automation
 - Discord Bots
