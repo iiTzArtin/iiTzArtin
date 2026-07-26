@@ -6,23 +6,23 @@ I build websites, web applications, automation tools, and bots.
 
 ## <img src="./assets/MySkill.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Skills
 
-### Frontend
+### <img src="./assets/fronend.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Frontend
 - <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> HTML
 - <img src="https://skillicons.dev/icons?i=css" width="20" height="20" alt="CSS" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> CSS
 - <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> JavaScript
 - <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="Tailwind" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Tailwind CSS
 
-### Backend
+### <img src="./assets/backend.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Backend
 - <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Node.js
 - <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Python
 - <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> REST APIs
 
-### Tools
+### <img src="./assets/tools.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Tools
 - <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Git
 - <img src="https://skillicons.dev/icons?i=github" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Github
 - <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Tailwind
 
-### Bots & Automation
+### <img src="./assets/bot.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Bots & Automation
 - <img src="https://skillicons.dev/icons?i=discordjs" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Discord.js
 - <img src="https://skillicons.dev/icons?i=devto" width="20" height="20" alt="HTML" align="absmiddle" style="vertical-align: middle; margin-right: 6px;" /> Telegram.js
 
