@@ -1,6 +1,6 @@
 # Hi, I'm Artin 👋
 
-<img src="./assets/code.svg" alt="Skills" width="28" height="28" align="absmiddle" style="margin-right: 8px;"> Software Developer passionate about building modern applications.
+Software Developer passionate about building modern applications.
 
 I build websites, web applications, automation tools, and bots.
 
